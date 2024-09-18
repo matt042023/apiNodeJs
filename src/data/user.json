@@ -1,0 +1,14 @@
+{
+    "users": [
+        {
+            "name": "françis",
+            "password": "$2b$10$HjRrOHK1Tq1K4R83Ck9kU.yHhmn4SaOAvkhfm535cw6ZSet2yy2f.",
+            "id": 3
+        },
+        {
+            "username": "françis",
+            "password": "$2b$10$jBtYQ9ICH2X7RqjzqA55uu2HuKaYYVrbJ0N.6PuQm/7al4435trCu",
+            "id": 4
+        }
+    ]
+}

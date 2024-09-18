@@ -1,0 +1,96 @@
+{
+    "ship": {
+        "nom": "Normandy SR-2",
+        "type": "Vaisseau spatial",
+        "univers": "Mass Effect",
+        "fabricant": "Alliance interstellaire",
+        "capacite": {
+            "vitesse": "Voyage supraluminique",
+            "armement": [
+                "Canons à accélération magnétique",
+                "Missiles Thanix",
+                "Lanceurs de drones"
+            ]
+        },
+        "equipage": {
+            "commandant": {
+                "nom": "Shepard",
+                "grade": "Commandant",
+                "race": "Humain",
+                "classe": "Spectre",
+                "specialisation": "Soldat/Vanguard/Infiltrateur",
+                "compétences": [
+                    "Tir de précision",
+                    "Biotechnologie",
+                    "Pouvoirs biotiques"
+                ]
+            },
+            "officiers": [
+                {
+                    "nom": "Miranda Lawson",
+                    "grade": "Lieutenant-Commandant",
+                    "race": "Humain",
+                    "classe": "Directeur exécutif de Cerberus",
+                    "compétences": [
+                        "Leadership",
+                        "Biotechnologie avancée",
+                        "Combat au corps à corps"
+                    ]
+                },
+                {
+                    "nom": "Decre Florent",
+                    "grade": "Codeur",
+                    "race": "Galerien",
+                    "classe": "Scientifique spécialisé",
+                    "compétences": [
+                        "Biotechnologie",
+                        "Chimie",
+                        "Recherche médicale"
+                    ]
+                },
+                {
+                    "nom": "Mordin Solus",
+                    "grade": "Docteur",
+                    "race": "Salarian",
+                    "classe": "Scientifique spécialisé",
+                    "compétences": [
+                        "Biotechnologie",
+                        "Chimie",
+                        "Recherche médicale"
+                    ]
+                },
+                {
+                    "nom": "Jeff 'Joker' Moreau",
+                    "grade": "Lieutenant",
+                    "race": "Humain",
+                    "classe": "Pilote d'élite",
+                    "compétences": [
+                        "Pilotage",
+                        "Navigation spatiale",
+                        "Réparation de vaisseau"
+                    ]
+                }
+            ],
+            "equipes_specialisees": {
+                "combat": {
+                    "nom": "Equipe de combat",
+                    "leader": "Jack",
+                    "membres": [
+                        "Grunt",
+                        "Zaeed Massani",
+                        "Samara"
+                    ]
+                },
+                "technique": {
+                    "nom": "Equipe technique",
+                    "leader": "Tali'Zorah nar Rayya",
+                    "membres": [
+                        "Legion",
+                        "Mordin Solus",
+                        "Kasumi Goto"
+                    ]
+                }
+            }
+        }
+    }
+}
